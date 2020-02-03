@@ -1,4 +1,4 @@
-   Based on arduino Leonardo (Atmega32u4) USB converter for
+   Based on Arduino Leonardo (Atmega32u4) USB converter for
    Jissen Mahjong controller (aka Capcom, Famicom mahjong controller)
    https://wiki.nesdev.com/w/index.php/Jissen_Mahjong_controller
 
@@ -40,7 +40,7 @@
   connector end):
   1  - Ground (BRO wire),
   7  - Data Out (RED wire),
-  9  - Clock(ORA wire),
+  9  - Clock (ORA wire),
   10 - I-N buttons row (BLU wire),
   11 - A-H buttons row (GREE wire),
   12 - Latch (YEL wire),
