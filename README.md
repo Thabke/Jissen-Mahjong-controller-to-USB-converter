@@ -1,4 +1,4 @@
-   Based on Arduino Leonardo (Atmega32u4) USB converter for
+   Based on Arduino Leonardo (ATmega32u4) USB converter for
    Jissen Mahjong controller (aka Capcom, Famicom mahjong controller)
    https://wiki.nesdev.com/w/index.php/Jissen_Mahjong_controller
 
