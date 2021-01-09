@@ -54,3 +54,9 @@
   If A-H is LOW and I-N is HIGH - A-H buttons row being read.
 - Based on NES gamepad arduino code from here:
   https://www.allaboutcircuits.com/projects/nes-controller-interface-with-an-arduino-uno/
+
+# Example install
+
+This install uses an Arduino Compatible Pro Micro (ATMega 32U4), 5V/16MHz version.
+
+![jissen-controller-install-pro-micro.jpg](jissen-controller-install-pro-micro.jpg)
