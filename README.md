@@ -1,6 +1,10 @@
+# Jissen Mahjong controller to USB converter
+
    Based on Arduino Leonardo (ATmega32u4) USB converter for
    Jissen Mahjong controller (aka Capcom, Famicom mahjong controller)
    https://wiki.nesdev.com/w/index.php/Jissen_Mahjong_controller
+
+## Background
 
 - The controller contains one 8-bit 4021 shift register and one transistor 
   in switch mode for selecting buttons lines.
@@ -36,6 +40,8 @@
           7  | A | I | SEL    |    
         -----------------------
         
+## Controller Pinout
+
 - The mahjong controller pinout is shown below (looking into controller's
   connector end):
   1  - Ground (BRO wire),
@@ -55,7 +61,7 @@
 - Based on NES gamepad arduino code from here:
   https://www.allaboutcircuits.com/projects/nes-controller-interface-with-an-arduino-uno/
 
-# Example install
+## Example Hardware Install
 
 This install uses an Arduino Compatible Pro Micro (ATMega 32U4), 5V/16MHz version.
 
