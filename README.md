@@ -63,6 +63,10 @@
 
 ## Example Hardware Install
 
-This install uses an Arduino Compatible Pro Micro (ATMega 32U4), 5V/16MHz version.
+This install uses an Arduino Compatible Pro Micro (ATMega 32U4), 5V/16MHz version. 
+
+- The Pro Micro is secured using a doube-sided sticky pad
+- Two supports were removed from the lower half of the shell to make room for the PCB and Micro USB cable
+- The Micro USB cable I chose is long, of similar thickness to the original cable, and carries both data and power
 
 ![jissen-controller-install-pro-micro.jpg](jissen-controller-install-pro-micro.jpg)
